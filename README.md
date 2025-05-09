@@ -61,5 +61,5 @@ Key features include:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/employee-attrition-classification.git
+   git clone https://github.com/BasilBiju1217/employee-attrition-classification.git
    cd employee-attrition-classification
